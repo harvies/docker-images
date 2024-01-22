@@ -1,4 +1,4 @@
-FROM dockerproxy.com/library/archlinux:latest
+FROM archlinux:latest
 
 LABEL maintainer="delverjw@gmail.com"
 
